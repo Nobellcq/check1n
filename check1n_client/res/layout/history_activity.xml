@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tiledstripes" >
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/total_pages" />
+
+    <RelativeLayout
+        android:id="@+id/topcontrol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/info"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/firstpage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/first_page" />
+
+        <Button
+            android:id="@+id/prepage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/firstpage"
+            android:text="@string/pre_page" />
+
+        <TextView
+            android:id="@+id/curpage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/cur_page" />
+
+        <Button
+            android:id="@+id/lastpage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="@string/last_page" />
+
+        <Button
+            android:id="@+id/nextpage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/lastpage"
+            android:text="@string/next_page" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bottomcontrol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true" >
+
+        <Button
+            android:id="@+id/goto_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/goto_text" />
+
+        <EditText
+            android:id="@+id/goto_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/goto_btn"
+            android:inputType="number"
+            android:minWidth="50dp" />
+
+        <TextView
+            android:id="@+id/goto_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toRightOf="@id/goto_text"
+            android:text="@string/goto_label"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/clear_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="@string/clear_text" />
+
+        <Button
+            android:id="@+id/search_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/clear_btn"
+            android:text="@string/search_text" />
+
+        <EditText
+            android:id="@+id/search_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toLeftOf="@id/search_btn"
+            android:layout_toRightOf="@id/goto_label"
+            android:inputType="number"
+            android:minWidth="50dp" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/recordlist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottomcontrol"
+        android:layout_below="@id/topcontrol"
+        android:cacheColorHint="#00000000" >
+    </ListView>
+
+</RelativeLayout>

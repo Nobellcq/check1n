@@ -1,0 +1,26 @@
+<html>
+<body>
+<iframe src="http://www.baidu.com"></iframe>
+<iframe id="iframepage" scrolling=no onLoad="iFrameHeight()" frameborder="0" src="index.php">
+</iframe>
+
+</body>
+
+
+
+<script type="text/javascript" language="javascript">
+    function iFrameHeight() {
+        alert("0")
+        var ifm= document.getElementById("iframepage");
+        var subWeb = document.frames ? document.frames["iframepage"].document : ifm.contentDocument;
+        if(ifm != null && subWeb != null) {
+            alert(1)
+            ifm.height = subWeb.body.scrollHeight;
+            ifm.width = 1024;
+
+            alert(ifm.height)
+            alert(ifm.width)
+        }
+    }
+</script>
+</html>

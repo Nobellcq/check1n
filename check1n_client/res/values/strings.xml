@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, JPush!</string>
+    <string name="app_name">Check1n</string>
+    <string name="tag_hint">Tag为大小写字母，数字，下划线,中文， 多个用以逗号分隔</string>
+    <string name="alias_hint">Alias为大小写字母，数字，下划线</string>
+    <string name="style_hint">style为数字</string>
+    <string name="error_style_empty">style不能为空</string>
+    <string name="error_alias_empty">alias不能为空</string>
+    <string name="error_tag_empty">tag不能为空</string>
+    <string name="error_tag_gs_empty">格式不对</string>
+    <string name="error_network">网络连接异常,初始化失败 请检查网络！</string>
+    <string name="logining">程序在后台执行, 请查看日志！</string>
+    <string name="setting_su">设置成功</string>
+    
+    <string name="intro">注意这是非卖品哦~~\n天下的一切都是朕的！</string>
+    <string name="tags_text">当前设置的Tag：%1$s</string>
+    <string name="tags_text_none">当前未设置任何Tag</string>
+    <string name="set_tag">设置Tag</string>
+    <string name="history">查看历史消息</string>
+    <string name="record">查看考勤记录（内网使用）</string>
+    
+    <string name="first_page">首页</string>
+    <string name="last_page">末页</string>
+    <string name="pre_page">上一页</string>
+    <string name="next_page">下一页</string>
+    <string name="total_pages">共%1$d页，%2$d条记录</string>
+    <string name="cur_page">第%1$d页</string>
+    <string name= "goto_text">跳转到</string>
+    <string name= "goto_label">页</string>
+    
+    <string name= "search_text">搜索</string>
+    <string name= "clear_text">清除</string>
+</resources>

@@ -1,0 +1,1 @@
+php.exe -q run.php

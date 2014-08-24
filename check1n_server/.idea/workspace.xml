@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f4288c8-3740-422f-a143-0bc150fbc3d2" name="Default" comment="" />
+    <ignored path="check1n.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="check1n" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/index.php" />
+        <option value="$PROJECT_DIR$/check1n/themes/bootstrap/views/site/index.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/components/UserIdentity.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/views/user/_form.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/views/user/_view.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/views/user/index.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/check1n.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/rawlist.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/components/jpush/SendVO.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/components/examples/example.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/modules/check1nm/views/ajax/json.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/components/examples/run.php" />
+        <option value="$PROJECT_DIR$/check1n/py/test.py" />
+        <option value="$PROJECT_DIR$/check1n/py/kaoqin1.py" />
+        <option value="$PROJECT_DIR$/check1n/protected/config/params.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/phpinfo.php" />
+        <option value="$PROJECT_DIR$/check1n/py/out.html" />
+        <option value="$PROJECT_DIR$/check1n/phpinfo.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/components/CallPython.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/result.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/check1n/themes/bootstrap/views/site/login.php" />
+        <option value="$PROJECT_DIR$/check1n/themes/bootstrap/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/check1n/py/kaoqin.py" />
+        <option value="$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/checklist.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/modules/check1nm/controllers/DefaultController.php" />
+        <option value="$PROJECT_DIR$/check1n/protected/modules/check1nm/controllers/AjaxController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server deployment_server="57e7922e-45ab-4066-bdcc-685f69b4d00d" host="localhost" name="local" use_path_mappings="true" validation_dir="E:\WorkFiles_proj\php\check1n">
+        <path_mappings>
+          <path_mapping local_path="$PROJECT_DIR$" remote_path="E:\wwwroot" />
+          <path_mapping local_path="$PROJECT_DIR$/check1n" remote_path="E:\wwwroot\check1n" />
+          <path_mapping local_path="$PROJECT_DIR$/framework" remote_path="E:\wwwroot\framework" />
+          <path_mapping local_path="$PROJECT_DIR$/requirements" remote_path="E:\wwwroot\requirements" />
+        </path_mappings>
+      </server>
+      <server deployment_server="01e93e7d-f53d-418a-aeaf-867cd1570f11" host="10.103.26.229" name="v" use_path_mappings="true" validation_dir="E:\WorkFiles_proj\php\check1n">
+        <path_mappings>
+          <path_mapping local_path="$PROJECT_DIR$" remote_path="C:\xampp\htdocs" />
+        </path_mappings>
+      </server>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php5" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="127.0.0.1" port="80" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="check1n" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settings.deploy.options" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkFiles_proj\php\check1n\check1n\py" />
+      <recent name="E:\WorkFiles_proj\php\check1n\check1n" />
+      <recent name="E:\WorkFiles_proj\php\check1n" />
+      <recent name="E:\WorkFiles_proj\php\check1n\check1n\protected\components" />
+      <recent name="E:\WorkFiles_proj\php\check1n\check1n\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.phpinfo.php">
+    <configuration default="false" name="example.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/check1n/protected/components/examples/example.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="phpinfo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/phpinfo.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" server_name="local">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="57e7922e-45ab-4066-bdcc-685f69b4d00d" server_name="local">
+      <method />
+    </configuration>
+    <configuration default="false" name="local" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" server_name="local" session_id="PHPSTORM">
+      <RunnerSettings RunnerId="PhpRemoteDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRemoteDebugRunner" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PHP Remote Debug.local" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.example.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.phpinfo.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.phpinfo.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.example.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f4288c8-3740-422f-a143-0bc150fbc3d2" name="Default" comment="" />
+      <created>1398526493672</created>
+      <updated>1398526493672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32888147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35559267" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17195326" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22704507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28061223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45310014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15191987" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32888147" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45310014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35559267" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17195326" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19440243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22704507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/check1n/protected/components/UserIdentity.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="35" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/check1n/protected/views/user/_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="4" selection-start="991" selection-end="991" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/views/user/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="779" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/web/CController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="313" column="0" selection-start="11368" selection-end="11368" vertical-scroll-proportion="0.0" vertical-offset="5947" max-vertical-offset="23940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/js/jquery-ui-timepicker-addon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="237" column="44" selection-start="7881" selection-end="7890" vertical-scroll-proportion="0.33188722" vertical-offset="4008" max-vertical-offset="24966" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/config/params.php.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1358" selection-end="1358" vertical-scroll-proportion="-5.035714" vertical-offset="581" max-vertical-offset="2736" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/js/date_picker_related.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="373" selection-end="373" vertical-scroll-proportion="0.38709676" vertical-offset="0" max-vertical-offset="1767" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/check1n.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="28" selection-start="1493" selection-end="1493" vertical-scroll-proportion="0.66898954" vertical-offset="433" max-vertical-offset="1007" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/jpush/Push.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="63" selection-start="231" selection-end="231" vertical-scroll-proportion="0.39721254" vertical-offset="0" max-vertical-offset="1121" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/examples/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="37620" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="779" column="32" selection-start="22070" selection-end="22079" vertical-scroll-proportion="0.18640351" vertical-offset="14716" max-vertical-offset="25384" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="984" column="20" selection-start="31326" selection-end="31326" vertical-scroll-proportion="0.9594883" vertical-offset="18246" max-vertical-offset="25593" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/cli/commands/MigrateCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="511" column="16" selection-start="14261" selection-end="14261" vertical-scroll-proportion="0.16755792" vertical-offset="9482" max-vertical-offset="11096" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/jpush/SendVO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="37" selection-start="1582" selection-end="1582" vertical-scroll-proportion="0.0" vertical-offset="552" max-vertical-offset="2565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/jpush/JPushClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="40" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.0" vertical-offset="1254" max-vertical-offset="2679" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/btn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.35781544" vertical-offset="114" max-vertical-offset="1235" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="19" selection-start="415" selection-end="415" vertical-scroll-proportion="0.3841912" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/examples/run.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1906" selection-end="1906" vertical-scroll-proportion="1.8229755" vertical-offset="1" max-vertical-offset="1102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/py/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/py/kaoqin1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="44" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5871" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/UserIdentity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="33" selection-start="1035" selection-end="1035" vertical-scroll-proportion="-14.214286" vertical-offset="210" max-vertical-offset="760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/rawlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="14" selection-start="145" selection-end="146" vertical-scroll-proportion="0.109195404" vertical-offset="0" max-vertical-offset="522" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/config/params.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="55" selection-start="526" selection-end="526" vertical-scroll-proportion="0.41911766" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/web/helpers/CJSON.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="6" selection-start="2947" selection-end="2947" vertical-scroll-proportion="-3.7142856" vertical-offset="124" max-vertical-offset="12673" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/MyHttpClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.9245742" vertical-offset="0" max-vertical-offset="2185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/NewsClue/controllers/AjaxController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="30" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.38190955" vertical-offset="855" max-vertical-offset="15314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="72" selection-start="2763" selection-end="2763" vertical-scroll-proportion="-48.607143" vertical-offset="140" max-vertical-offset="2432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/FileUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="136" selection-end="136" vertical-scroll-proportion="0.08121827" vertical-offset="120" max-vertical-offset="589" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="44" selection-start="701" selection-end="736" vertical-scroll-proportion="0.21839081" vertical-offset="0" max-vertical-offset="522" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/index-test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/phpinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="15" selection-start="1235" selection-end="1235" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/py/temp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="24" selection-start="375" selection-end="375" vertical-scroll-proportion="0.5181818" vertical-offset="0" max-vertical-offset="19988" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/check1nm/views/ajax/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.3492647" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/CallPython.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="315" selection-end="315" vertical-scroll-proportion="-7.464286" vertical-offset="0" max-vertical-offset="342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/views/site/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1121" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/models/LoginForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/themes/bootstrap/views/site/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="32" selection-start="1286" selection-end="1286" vertical-scroll-proportion="1.3103448" vertical-offset="114" max-vertical-offset="1064" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="61" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.40038314" vertical-offset="741" max-vertical-offset="3420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/components/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="56" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/themes/bootstrap/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="10" selection-start="3415" selection-end="3415" vertical-scroll-proportion="0.0" vertical-offset="1843" max-vertical-offset="3553" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/py/kaoqin.py.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="34" selection-start="3884" selection-end="3884" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6460" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/py/CallPython.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/py/out.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/py/kaoqin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6688" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/checklist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="6479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/check1nm/views/default/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="0" selection-start="1911" selection-end="2151" vertical-scroll-proportion="0.41911766" vertical-offset="1026" max-vertical-offset="4237" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/check1nm/controllers/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check1n/protected/modules/check1nm/controllers/AjaxController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="273" column="31" selection-start="9545" selection-end="9545" vertical-scroll-proportion="0.25047082" vertical-offset="4940" max-vertical-offset="5681" />
+      </provider>
+    </entry>
+  </component>
+</project>
+
