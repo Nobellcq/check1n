@@ -1,7 +1,7 @@
 ﻿<?php
 include_once '../jpush/JPushClient.php';
-$master_secret = '9affa52363188290fd136298';
-$app_key='ac61ebcde40e2687712b059b';
+$master_secret = 'get this from jpush.cn';
+$app_key='get this from jpush.cn';
 $platform = '';
 $apnsProduction = false;
 
@@ -16,8 +16,8 @@ $params = array("receiver_type" => 2,
     "send_description" => "",
     "override_msg_id" => "");
 
-$dsn = "mysql:host=10.103.26.159;dbname=check1n";
-$mysqldb = new PDO($dsn,'enbandari','ss1013');
+$dsn = "mysql:host=<host>;dbname=check1n";
+$mysqldb = new PDO($dsn,'username','password');
 $logSql = "SELECT userid, updatetime from log ORDER BY updatetime DESC LIMIT 1;";
 $lastLog = $mysqldb->query($logSql)->fetchAll();
 //var_dump($lastLog);

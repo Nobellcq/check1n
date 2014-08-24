@@ -247,7 +247,7 @@ class AjaxController extends Controller
     private function sqlLog($sqlToLog){
         try{
             $userid = Yii::app()->user->name;
-            $db = new PDO("mysql:host=10.103.26.159;dbname=check1n",'enbandari','ss1013');
+            $db = new PDO("mysql:host=10.103.26.159;dbname=check1n",'xxxxxx','****');
             $sql = "insert into oplog (userid,sqllog) values('$userid', '".addslashes($sqlToLog)."')";
             $db->exec($sql);
         }catch(PDOException $e){
